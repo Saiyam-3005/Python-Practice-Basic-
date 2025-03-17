@@ -60,9 +60,11 @@
 58.[DOUBLE AND HALF OF ODD AND EVEN NUMBER IN A LIST](https://github.com/Saiyam-3005/python-practice/blob/d6cdf0e9f11a3948d2d6aa36e6b7f2138ae51007/code%2058.py)<br>
 59.[DOUBLE AND HALF OF ODD AND EVEN POSITION NUMBER IN A LIST](https://github.com/Saiyam-3005/python-practice/blob/d6cdf0e9f11a3948d2d6aa36e6b7f2138ae51007/code%2059.py)<br>
 60.[BUBBLE SORT](https://github.com/Saiyam-3005/python-practice/blob/d6cdf0e9f11a3948d2d6aa36e6b7f2138ae51007/code%2060.py)<br>
-61.[COUNTRY DICTONARY]()<br>
-62.[MENU DRIVEN OF FUNCTION WITH FUNCTIONS]()<br>
-63.[Write a menu driven program to do the following tasks with the help of USING FUNCTIONS FOR EXPONENTIAL VALUE, SIMPLE IJNTEREST ETC.]()<br>
-64.[Write a menu driven program to manipulate the Lists by passing them to user defined function USING FUNCTION FOR VARIOUS STRING FUNCTIONS]()
-
+61.[COUNTRY DICTONARY](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2061.py)<br>
+62.[MENU DRIVEN OF FUNCTION WITH FUNCTIONS](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2062.py)<br>
+63.[Write a menu driven program to do the following tasks with the help of USING FUNCTIONS FOR EXPONENTIAL VALUE, SIMPLE IJNTEREST ETC.](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2063.py)<br>
+64.[Write a menu driven program to manipulate the Lists by passing them to user defined function USING FUNCTION FOR VARIOUS LIST FUNCTIONS](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2064.py)<br>
+65.[MENU DIRVEN TO PROGRAM FOR MATHEMATICAL EXPRESSION](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2065.py)<br>
+66.[SIMPLE CALCULATOR](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2066.py)<br>
+67.[[MENU DIRVEN TO PROGRAM FOR STRING OPERATIONS](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2067.py)<br>
 
