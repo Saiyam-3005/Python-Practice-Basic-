@@ -57,9 +57,9 @@
 55.[MEAN AND MEDIAN WHEN EACH ELEMRNT IS REDUCED BY O](https://github.com/Saiyam-3005/python-practice/blob/23952dba768553ed21ba7ba0f0b7de95121eedec/code%2055.py)<br>
 56.[DICTONARY PRACCTICE](https://github.com/Saiyam-3005/python-practice/blob/23952dba768553ed21ba7ba0f0b7de95121eedec/code%2056.py)<br>
 57.[FORMAATION OF SUARE OR RECTANGLE BY NUMBERS](https://github.com/Saiyam-3005/python-practice/blob/23952dba768553ed21ba7ba0f0b7de95121eedec/code%2057.py)<br>
-58.[DOUBLE AND HALF OF ODD AND EVEN NUMBER IN A LIST]()<br>
-59.[DOUBLE AND HALF OF ODD AND EVEN POSITION NUMBER IN A LIST]()<br>
-60.[BUBBLE SORT]()<br>
+58.[DOUBLE AND HALF OF ODD AND EVEN NUMBER IN A LIST](https://github.com/Saiyam-3005/python-practice/blob/d6cdf0e9f11a3948d2d6aa36e6b7f2138ae51007/code%2058.py)<br>
+59.[DOUBLE AND HALF OF ODD AND EVEN POSITION NUMBER IN A LIST](https://github.com/Saiyam-3005/python-practice/blob/d6cdf0e9f11a3948d2d6aa36e6b7f2138ae51007/code%2059.py)<br>
+60.[BUBBLE SORT](https://github.com/Saiyam-3005/python-practice/blob/d6cdf0e9f11a3948d2d6aa36e6b7f2138ae51007/code%2060.py)<br>
 61.[COUNTRY DICTONARY]()<br>
 62.[MENU DRIVEN OF FUNCTION WITH FUNCTIONS]()<br>
 63.[Write a menu driven program to do the following tasks with the help of USING FUNCTIONS FOR EXPONENTIAL VALUE, SIMPLE IJNTEREST ETC.]()<br>
