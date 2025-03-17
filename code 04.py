@@ -1,8 +1,8 @@
-'''r=float(input('radius of the circle:'))
+r=float(input('radius of the circle:'))
 a=2*(22/7)*(r**2)
 c=2*(22/7)*r
 print('the area and circumfrence of the circle are:\n area is:',a,'\n circumfrence is:',c)
-input()'''
+input()
 
 
 
