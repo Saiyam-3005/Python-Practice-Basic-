@@ -67,4 +67,11 @@
 65.[MENU DIRVEN TO PROGRAM FOR MATHEMATICAL EXPRESSION](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2065.py)<br>
 66.[SIMPLE CALCULATOR](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2066.py)<br>
 67.[[MENU DIRVEN TO PROGRAM FOR STRING OPERATIONS](https://github.com/Saiyam-3005/python-practice/blob/7c66ae485654162d93aa7b62ea853d1d67d93575/code%2067.py)<br>
-
+68.[STACK OPERATION](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/STACK1.py)<br>
+69.[CHECK PALINDROME USING STACK](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/STACK3_palin.py)<br>
+70.[LIST POP AND PUSH FUNCTIONS](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/stack.py)<br>
+71.[LIST FUNCTIONS ](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/sa.py)<br>
+72.[GETTING INDEX OF A LIST](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/list1.py)<br>
+73.[TUPLE](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/f3.py)<br>
+74.[DETERMINE EVEN AND ODD NUMERS IN A TUPLE](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/f2.py)<br>
+75.[COUNT NUMBER OF VOWELS](https://github.com/Saiyam-3005/Python-Practice-Basic-/blob/9b71ee2f1dcf28e9158de8aa6b07ab986ee17e9d/code%2068.py)<br>
